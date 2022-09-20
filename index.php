@@ -1,5 +1,5 @@
 <?php
-    // try: /?banned_word=war
+    // try: /?banned_word=become
     $text = 'The Golden Order has been broken. <br><br>
  
 
